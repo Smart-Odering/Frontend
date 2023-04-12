@@ -74,7 +74,7 @@
   
   .remaining-time {
     font-size: 2.5rem;
-    color: tomato;
+    color: rgb(3, 102, 53);
   }
   
   .delete-all-items {
@@ -102,7 +102,7 @@
   }
   
   .selected-item-num {
-    color: tomato;
+    color: rgb(3, 102, 53);
   }
   
   .order-btn {
@@ -117,7 +117,7 @@
   }
   
   .order-btn-valid {
-    background: tomato;
+    background: rgb(3, 102, 53);
   }
   
   .order-btn-invalid {
@@ -167,7 +167,7 @@
   .pay-modal-heading {
     font-size: 2rem;
     font-weight: bold;
-    color: tomato;
+    color: rgb(3, 102, 53);
     margin: 15px;
   }
   
@@ -238,7 +238,7 @@
   }
   
   .total-item-num {
-    color: tomato;
+    color: rgb(3, 102, 53);
   }
   
   .total-item-price {
@@ -246,7 +246,7 @@
   }
   
   .pay-result-check {
-    background: tomato;
+    background: rgb(3, 102, 53);
     margin: 10px;
     padding-left: 5%;
     width: 40%;
